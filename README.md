@@ -1,73 +1,24 @@
-<br clear="both">
+# 💫 About Me:
+👋 Hello, I'm Himanshu Singh, a third-year Computer Engineering student at Mumbai University!<br><br>🌟 With a passion for both competitive programming and web development, I thrive on solving challenging problems and crafting seamless digital experiences.<br><br>💻 Proficient in a variety of technologies, I specialize in Java, C++, MongoDB, Express, Node.js, HTML, CSS, Bootstrap, and MySQL. Whether it's building robust backend systems with Node.js or designing elegant frontend interfaces with HTML/CSS, I enjoy exploring the full stack of web development.<br><br>🚀 Actively engaged in the tech community, I love participating in coding competitions and contributing to open-source projects. From algorithmic challenges to collaborative coding endeavors, I believe in the power of teamwork and continuous learning.<br><br>🔭 Currently, I'm honing my skills in DSA and web dev.<br><br>📫 Let's connect and collaborate! Whether it's discussing programming puzzles, exploring new tech trends, or working on exciting projects together, feel free to reach out to me [LinkedIn/email].<br><br>⚡ Fun fact: When I'm not coding, you can often find me exploring new cafes in Mumbai or diving into a good book on technology and innovation.<br><br>🌱 Always striving to learn and grow, I'm excited about the endless possibilities that technology offers. Let's build something incredible together!
 
-<h3 align="left">👋 Hello, I’m Himanshu Singh, a third-year Computer Engineering student at Mumbai University!<br><br>🌟 With a passion for both competitive programming and web development, I thrive on solving challenging problems and crafting seamless digital experiences.<br><br>💻 Proficient in a variety of technologies, I specialize in Java, C++, MongoDB, Express, Node.js, HTML, CSS, Bootstrap, and MySQL. Whether it’s building robust backend systems with Node.js or designing elegant frontend interfaces with HTML/CSS, I enjoy exploring the full stack of web development.<br><br>🚀 Actively engaged in the tech community, I love participating in coding competitions and contributing to open-source projects. From algorithmic challenges to collaborative coding endeavors, I believe in the power of teamwork and continuous learning.<br><br>🔭 Currently, I’m honing my skills in DSA and web dev.<br><br>📫 Let’s connect and collaborate! Whether it’s discussing programming puzzles, exploring new tech trends, or working on exciting projects together, feel free to reach out to me [LinkedIn/email].<br><br>⚡ Fun fact: When I’m not coding, you can often find me exploring new cafes in Mumbai or diving into a good book on technology and innovation.<br><br>🌱 Always striving to learn and grow, I’m excited about the endless possibilities that technology offers. Let’s build something incredible together!</h3>
 
-###
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/savvy_monk05) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/savvy_monk05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu-singh-2a75301b0) 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=savvymonk05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=savvymonk05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=savvymonk05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=savvymonk05&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=savvymonk05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-###
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-###
+---
+[![](https://visitcount.itsvg.in/api?id=savvymonk05&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/savvymonk05/savvymonk05/output/snake.svg" alt="Snake animation" />
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
