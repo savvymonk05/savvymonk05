@@ -1,11 +1,11 @@
-<!-- 🌊 WAVE HEADER -->
+<!-- 🌊 HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00F4&height=200&section=header&text=Himanshu%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <h1 align="center">Hey 👋, I'm Himanshu</h1>
-<h3 align="center">🚀 Full Stack Dev | DSA | Building Real Stuff</h3>
+<h3 align="center">🚀 Full Stack Developer | Java | DSA</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+Developer;DSA+Grinder;Future+System+Design+Beast;I+Build+Things+That+Matter🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+Developer;DSA+Grinder;Backend+Focused;Building+Real+Projects🔥" />
 </p>
 
 ---
@@ -13,9 +13,8 @@
 ## 🧠 About Me
 - 🎓 Computer Engineering Student  
 - 💻 Focused on **Backend + DSA + System Design**  
-- 🚀 Currently learning **Spring Boot & scalable systems**  
+- 🚀 Learning **Spring Boot & scalable systems**  
 - ⚡ I believe in *execution > theory*  
-- ☕ Cafes + Code = Lifestyle  
 
 ---
 
@@ -38,10 +37,10 @@
 
 ---
 
-## 📊 Stats That Actually Matter
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=savvymonk05&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=savvymonk05&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=savvymonk05&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img src="https://streak-stats.demolab.com?user=savvymonk05&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -50,52 +49,31 @@
 
 ---
 
-## 🔥 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=savvymonk05&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Snake Eating Contributions (THIS ONE IS 🔥)
+## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/savvymonk05/savvymonk05/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 🎮 Pacman Contribution Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/savvymonk05/savvymonk05/output/pacman-contribution-graph.svg" />
-</p>
-
----
-
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=savvymonk05&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
-
----
-
-## ✨ Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=savvymonk05&theme=tokyonight&no-frame=true&margin-w=10&no-bg=true"/>
 </p>
 
 ---
 
 ## 👀 Profile Views
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=savvymonk05&icon=5&color=6"/>
+  <img src="https://komarev.com/ghpvc/?username=savvymonk05&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-## ⚡ Reality Check
-> I don’t just learn tech… I’m here to **dominate it** 🚀
+## ⚡ Fun Fact
+> I build things that actually work in real life 🚀
 
 ---
 
-<!-- 🌊 WAVE FOOTER -->
+<!-- 🌊 FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,100:00F7FF&height=120&section=footer"/>
