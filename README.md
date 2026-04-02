@@ -1,27 +1,101 @@
-# 💫 About Me:
-👋 Hello, I'm Himanshu Singh, a final-year Computer Engineering student at Mumbai University!<br><br>🌟 With a passion for both competitive programming and web development, I thrive on solving challenging problems and crafting seamless digital experiences.<br><br>💻 Proficient in a variety of technologies, I specialize in Java, C++, MongoDB, Express, Node.js, HTML, CSS, Bootstrap, and MySQL. Whether it's building robust backend systems with Node.js or designing elegant frontend interfaces with HTML/CSS, I enjoy exploring the full stack of web development.<br><br>🚀 Actively engaged in the tech community, I love participating in coding competitions and contributing to open-source projects. From algorithmic challenges to collaborative coding endeavors, I believe in the power of teamwork and continuous learning.<br><br>🔭 Currently, I'm honing my skills in DSA and web dev.<br><br>📫 Let's connect and collaborate! Whether it's discussing programming puzzles, exploring new tech trends, or working on exciting projects together, feel free to reach out to me [LinkedIn/email].<br><br>⚡ Fun fact: When I'm not coding, you can often find me exploring new cafes in Mumbai or diving into a good book on technology and innovation.<br><br>🌱 Always striving to learn and grow, I'm excited about the endless possibilities that technology offers. Let's build something incredible together!
+<!-- 🌊 WAVE HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00F4&height=200&section=header&text=Himanshu%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
+<h1 align="center">Hey 👋, I'm Himanshu</h1>
+<h3 align="center">🚀 Full Stack Dev | DSA | Building Real Stuff</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/himanshu-singh-2a75301b0/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:himanshusingh20023@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=savvymonk05&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=savvymonk05&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=savvymonk05&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=savvymonk05&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=savvymonk05&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+Developer;DSA+Grinder;Future+System+Design+Beast;I+Build+Things+That+Matter🔥" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=savvymonk05&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+- 🎓 Computer Engineering Student  
+- 💻 Focused on **Backend + DSA + System Design**  
+- 🚀 Currently learning **Spring Boot & scalable systems**  
+- ⚡ I believe in *execution > theory*  
+- ☕ Cafes + Code = Lifestyle  
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/himanshu-singh-2a75301b0/">
+    <img src="https://img.shields.io/badge/LinkedIn-00C7B7?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:himanshusingh20023@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ⚙️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,js,python,html,css,react,nodejs,express,mongodb,mysql,aws,git,github" />
+</p>
+
+---
+
+## 📊 Stats That Actually Matter
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=savvymonk05&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=savvymonk05&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savvymonk05&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=savvymonk05&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Snake Eating Contributions (THIS ONE IS 🔥)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/savvymonk05/savvymonk05/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🎮 Pacman Contribution Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/savvymonk05/savvymonk05/output/pacman-contribution-graph.svg" />
+</p>
+
+---
+
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=savvymonk05&theme=tokyonight&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+## ✨ Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+## 👀 Profile Views
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=savvymonk05&icon=5&color=6"/>
+</p>
+
+---
+
+## ⚡ Reality Check
+> I don’t just learn tech… I’m here to **dominate it** 🚀
+
+---
+
+<!-- 🌊 WAVE FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,100:00F7FF&height=120&section=footer"/>
